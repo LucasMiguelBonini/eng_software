@@ -8,7 +8,6 @@ public class Automovel {
     public Automovel(String marca, int anoDeFabricacao, String modelo){
         this.marca = marca;
         this.anoDeFabricacao = anoDeFabricacao;
-        this.modelo = modelo;
     }
 
     public void Ligar(){
