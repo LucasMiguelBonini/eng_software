@@ -9,7 +9,6 @@ public class Carro extends Automovel{
         super (marca, anoDeFabricacao, modelo);
         this.quantportas=quantportas;
         this.motor=motor;
-        this.direcaohidraulica=direcaohidraulica;
     }
 
     public void TrancarPorta(){
