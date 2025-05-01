@@ -9,7 +9,6 @@ public class Moto extends Automovel{
         super(marca, anoDeFabricacao, modelo);
         this.tipo = tipo;
         this.motor = motor;
-        this.partidaEletrica = partidaEletrica;
     }
 
     public void abrirValvulaCombustivel() {
